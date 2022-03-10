@@ -1,0 +1,19 @@
+
+** Run function: db_filter.r/regulome_filt... Ready
+Input GWAS SNPs N	= [1] 2197
+2 Regulome data load...
+  Read: /data/db_gwas/regulome/dbSNP132.Category1.txt.gz.rds; dim = [1] 39432     5
+  Read: /data/db_gwas/regulome/dbSNP132.Category2.txt.gz.rds; dim = [1] 407796      5
+
+  Regulome score >=2b, SNPs		= [1] 430528
+  Functional motifs (1a~2b - 1f only)	= [1] 34705
+
+  Regulome >=2b, GWAS SNPs		= [1] 53
+  GWAS SNPs occupied in
+    functional motifs (1a~2b - 1f only)	= [1] 25
+
+Write file: /data/genome_tsv/regulome_53.tsv
+Write file: /data/summary_bed/snp_regulome2b_53.bed
+
+Job done: 2022-01-12 21:41:42 for 14 sec
+

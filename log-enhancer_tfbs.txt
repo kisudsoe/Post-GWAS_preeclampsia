@@ -1,0 +1,10 @@
+
+** Run function: db_venn.r/draw_upset function **
+[1] "/data/summary_bed/roadmap_18-enh_prom_1284.bed"
+[2] "/data/summary_bed/snp_encode_tfbs_367.bed"     
+2 File(s) is/are input.
+
+Write file: /data/genome_tsv/enh_prom_tfbs_binary.tsv
+Write file: /data/summary_bed/enh_prom_tfbs_330.bed
+
+Job done: 2022-01-12 21:42:39 for 1.5 sec

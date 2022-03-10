@@ -1,0 +1,29 @@
+
+** Run pivot function in roadmap_summary.r **
+
+Read file: /data/candidate_1197.bed = [1] 2197    4
+* 98 files are found: Read [..........] = [1] 215306      3
+* Transform table -> done
+* File write: /data/genome_tsv/summary_roadmap_18_status.tsv
+* File write: /data/genome_tsv/summary_roadmap_18_status_cell_num.tsv
+1 10_EnhA2 = [1] 693   4
+2 11_EnhWk = [1] 1025    4
+3 12_ZNF.Rpts = [1] 245   4
+4 13_Het = [1] 898   4
+5 14_TssBiv = [1] 38  4
+6 15_EnhBiv = [1] 84  4
+7 16_ReprPC = [1] 486   4
+8 17_ReprPCWk = [1] 1326    4
+9 18_Quies = [1] 2158    4
+10 1_TssA = [1] 113   4
+11 2_TssFlnk = [1] 146   4
+12 3_TssFlnkU = [1] 197   4
+13 4_TssFlnkD = [1] 173   4
+14 5_Tx = [1] 621   4
+15 6_TxWk = [1] 1805    4
+16 7_EnhG1 = [1] 406   4
+17 8_EnhG2 = [1] 136   4
+18 9_EnhA1 = [1] 528   4
+* BED files wrote at "/data/roadmap_status_bed" folder.
+
+Job done: 2022-01-12 21:41:34 for 6.5 sec

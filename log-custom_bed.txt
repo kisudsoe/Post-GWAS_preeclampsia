@@ -1,0 +1,17 @@
+
+** Run function: utils.r/tsv_to_bed **
+5 Files/folders input.
+  1 /data/custom_tsv/Corces-Cicero_anchor_hg19lift.bed.tsv
+  2 /data/custom_tsv/Corces-HiChIP-anchor_hg19lift.bed.tsv
+  3 /data/custom_tsv/Corces-scATAC_brain_6_cell-type_hg19lift.bed.tsv
+  4 /data/custom_tsv/Nott_interactome_anchor_hg19.bed.tsv
+  5 /data/custom_tsv/Nott_pro_enh_sup_enh_hg19.bed.tsv
+Total 5 file(s) is/are input.
+
+Write file: /data/summary_bed/Corces-Cicero_anchor_1.bed
+Write file: /data/summary_bed/Corces-HiChIP-anchor_7.bed
+Write file: /data/summary_bed/Corces-scATAC_brain_6_cell-type_70.bed
+Write file: /data/summary_bed/Nott_interactome_anchor_755.bed
+Write file: /data/summary_bed/Nott_pro_enh_sup_enh_331.bed
+Job done: 2022-01-12 21:42:31 for 0.2 sec
+

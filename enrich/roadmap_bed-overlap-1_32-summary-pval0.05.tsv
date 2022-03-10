@@ -1,0 +1,20 @@
+ANATOMY	EDACC_NAME	EID	Promoter	Enhancer
+BLOOD	Monocytes-CD14+ RO01746	E124	TssA (p=2e-02, n=4)	-
+BONE	Osteoblasts	E129	TssA (p=2e-02, n=4)	EnhG2 (p=1e-03, n=6)
+BRAIN	Brain Anterior Caudate	E068	TssA (p=2e-02, n=5)	-
+ESC	HUES48 Cell Line	E014	TssA (p=2e-02, n=4)	-
+ESC DERIVED	hESC Derived CD184+ Endoderm Cultured Cells	E011	-	EnhG2 (p=9e-03, n=2)
+ESC DERIVED	hESC Derived CD56+ Mesoderm Cultured Cells	E013	-	EnhA1 (p=1e-02, n=6)
+GI ESOPHAGUS	Esophagus	E079	TssA (p=3e-02, n=4)	-
+GI INTESTINE	Fetal Intestine Large	E084	TssA (p=3e-02, n=4)	-
+GI INTESTINE	Fetal Intestine Small	E085	TssA (p=3e-02, n=4)	-
+LUNG	A549 EtOH 0.02pct Lung Carcinoma	E114	TssA (p=2e-02, n=5)	EnhG2 (p=1e-03, n=7)
+LUNG	NHLF Lung Fibroblasts	E128	-	EnhA1 (p=4e-02, n=6)
+MUSCLE	Psoas Muscle	E100	-	EnhG2 (p=2e-02, n=1)
+MUSCLE	HSMM Skeletal Muscle Myoblasts	E120	TssA (p=3e-02, n=4)	EnhG2 (p=2e-03, n=4)
+MUSCLE	HSMMtube Skeletal Muscle Myotubes Derived from HSMM	E121	-	EnhG2 (p=3e-02, n=2)
+SKIN	NHDF-Ad Adult Dermal Fibroblasts	E126	TssA (p=4e-02, n=4)	-
+SPLEEN	Spleen	E113	-	EnhA2 (p=2e-02, n=8)
+STROMAL CONNECTIVE	Bone Marrow Derived Mesenchymal Stem Cell Cultured Cells	E026	TssA (p=3e-02, n=4)	EnhG2 (p=4e-03, n=4)
+STROMAL CONNECTIVE	Chondrocytes from Bone Marrow Derived Mesenchymal Stem Cell Cultured Cells	E049	TssA (p=2e-02, n=4)	-
+VASCULAR	Aorta	E065	TssA (p=1e-02, n=5)	EnhG1 (p=3e-02, n=3)

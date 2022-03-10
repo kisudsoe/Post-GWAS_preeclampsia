@@ -1,0 +1,10 @@
+
+** Run function: db_venn.r/draw_upset function **
+[1] "/data/summary_bed/enh_prom_tfbs_330.bed"
+[2] "/data/summary_bed/gtex_eqtl_1145.bed"   
+2 File(s) is/are input.
+
+Write file: /data/genome_tsv/overlap-2_binary.tsv
+Write file: /data/summary_bed/overlap-2_185.bed
+
+Job done: 2022-01-12 21:42:44 for 1.5 sec

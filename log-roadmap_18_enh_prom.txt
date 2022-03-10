@@ -1,0 +1,17 @@
+
+** Run function: db_venn.r/draw_upset function **
+[1] "/data/roadmap_status_bed/roadmap_18_status-7_EnhG1_406.bed"   
+[2] "/data/roadmap_status_bed/roadmap_18_status-8_EnhG2_136.bed"   
+[3] "/data/roadmap_status_bed/roadmap_18_status-9_EnhA1_528.bed"   
+[4] "/data/roadmap_status_bed/roadmap_18_status-10_EnhA2_693.bed"  
+[5] "/data/roadmap_status_bed/roadmap_18_status-11_EnhWk_1025.bed" 
+[6] "/data/roadmap_status_bed/roadmap_18_status-1_TssA_113.bed"    
+[7] "/data/roadmap_status_bed/roadmap_18_status-2_TssFlnk_146.bed" 
+[8] "/data/roadmap_status_bed/roadmap_18_status-3_TssFlnkU_197.bed"
+[9] "/data/roadmap_status_bed/roadmap_18_status-4_TssFlnkD_173.bed"
+9 File(s) is/are input.
+
+Write file: /data/genome_tsv/roadmap_18-enh_prom_binary.tsv
+Write file: /data/summary_bed/roadmap_18-enh_prom_1284.bed
+
+Job done: 2022-01-12 21:42:35 for 2.5 sec
